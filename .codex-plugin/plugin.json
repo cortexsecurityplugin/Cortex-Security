@@ -1,0 +1,7 @@
+{
+  "name": "cortex-security",
+  "version": "0.1.0",
+  "description": "Cortex Security code-auditing workflows for Codex, designed to expand into host and network defense.",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
