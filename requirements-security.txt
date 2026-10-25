@@ -1,0 +1,3 @@
+# Optional development-time security tools; install in an isolated virtual environment.
+bandit[sarif]
+pip-audit

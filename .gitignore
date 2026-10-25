@@ -8,3 +8,5 @@ venv/
 reports/*
 !reports/.gitkeep
 *.log
+
+.venv-security/
