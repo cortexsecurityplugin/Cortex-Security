@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "cortex-security": {
+      "command": "R:\\CortexSecurity\\.venv-security\\Scripts\\python.exe",
+      "args": [
+        "R:\\CortexSecurity\\integrations\\odysseus\\cortex_security_mcp.py"
+      ],
+      "env": {
+        "CORTEX_SECURITY_ROOT": "R:\\CortexSecurity",
+        "CORTEX_SECURITY_ALLOWED_ROOTS": "R:\\CortexSecurity"
+      }
+    }
+  }
+}

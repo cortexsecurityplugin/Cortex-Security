@@ -10,3 +10,14 @@ reports/*
 *.log
 
 .venv-security/
+
+# Local MCP configuration and generated integration packages
+.mcp.json
+odysseus-mcp-config.json
+*.local.json
+Cortex-Security-Odysseus-Integration*.zip
+
+# Python test and build artifacts
+.pytest_cache/
+build/
+dist/
